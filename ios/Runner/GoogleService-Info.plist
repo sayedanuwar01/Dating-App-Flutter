@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>941795783770-d02afncsch1jlmavjfeda5nbjk7v5suq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941795783770-d02afncsch1jlmavjfeda5nbjk7v5suq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>941795783770-eiiscmch84oslai7bpfkd82brtaupqsh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLvgIzBbarUoQaGK9eJJWdCoU8IWqrleA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941795783770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.findmeluxy.app</string>
+	<key>PROJECT_ID</key>
+	<string>puerto-dating-6982d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>puerto-dating-6982d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941795783770:ios:695f8a33a8b9dcea049463</string>
+	<key>DATABASE_URL</key>
+	<string>https://puerto-dating-6982d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

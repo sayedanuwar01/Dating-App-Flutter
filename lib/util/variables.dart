@@ -1,0 +1,2 @@
+
+var languageIndex = 0;

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941795783770",
+    "firebase_url": "https://puerto-dating-6982d-default-rtdb.firebaseio.com",
+    "project_id": "puerto-dating-6982d",
+    "storage_bucket": "puerto-dating-6982d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941795783770:android:e800525a8e1930fa049463",
+        "android_client_info": {
+          "package_name": "com.findmeluxy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941795783770-eiiscmch84oslai7bpfkd82brtaupqsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findmeluxy.app",
+            "certificate_hash": "839067c3434bb358780fc1ba96cf51f94be8a784"
+          }
+        },
+        {
+          "client_id": "941795783770-4lg57so7iitva3chm9mgcoi7lp5c3n53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEecj5xQGKovlDOdh6SFUUMyc8JYC4Yec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941795783770-4lg57so7iitva3chm9mgcoi7lp5c3n53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
